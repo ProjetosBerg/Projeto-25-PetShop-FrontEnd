@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL: 'http://localhost:5000',
+    baseURL: 'https://projeto-24-petshop-backend.onrender.com',
 })
